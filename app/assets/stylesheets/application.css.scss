@@ -19,8 +19,32 @@
 .container {
 	background-color: #535640;
 	width: 100%;
+	color: #bcab90;
 }
 
 .panel-body{
 	background-color: #ac7e54;
+	color: #373538;
 }
+
+.style {
+	border-radius: 50%;
+
+}
+
+.navbar-default {
+	background-color: #79533d;
+}
+
+.navbar-dropdown {
+	color: #63613e;
+}
+
+.image {
+	height: 250px;
+	width: 200px;
+	border-radius: 40%;
+	text-align: center;
+}
+
+
